@@ -1,5 +1,5 @@
 
-
+#Relation set
 #Problem No. 01
 #Name of the Problem: Let A be the set 𝐴 = {1, 2, 3, 4}. Write a program to find the ordered 
 #pairs are in the relation I) 𝑅1 = {(𝑎, 𝑏) | 𝑎 𝑑𝑖𝑣𝑖𝑑𝑒𝑠 𝑏} II) 𝑅2 = {(𝑎, 𝑏) | 𝑎 ≤ 𝑏}.
